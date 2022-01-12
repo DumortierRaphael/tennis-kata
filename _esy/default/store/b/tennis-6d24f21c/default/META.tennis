@@ -1,0 +1,18 @@
+package "lib" (
+  directory = "lib"
+  description = ""
+  requires = ""
+  archive(byte) = "Tennis.cma"
+  archive(native) = "Tennis.cmxa"
+  plugin(byte) = "Tennis.cma"
+  plugin(native) = "Tennis.cmxs"
+)
+package "test" (
+  directory = "test"
+  description = ""
+  requires = "alcotest tennis.lib"
+  archive(byte) = "SUT.cma"
+  archive(native) = "SUT.cmxa"
+  plugin(byte) = "SUT.cma"
+  plugin(native) = "SUT.cmxs"
+)

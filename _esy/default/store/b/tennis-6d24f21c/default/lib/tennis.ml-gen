@@ -1,0 +1,2 @@
+(** @canonical Tennis.Game *)
+module Game = Tennis__Game

@@ -1,0 +1,6 @@
+(** @canonical SUT.Framework *)
+module Framework = SUT__Framework
+
+
+(** @canonical SUT.Game_test *)
+module Game_test = SUT__Game_test

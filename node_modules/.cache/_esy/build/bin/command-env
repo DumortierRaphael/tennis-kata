@@ -1,0 +1,465 @@
+# Command environment
+
+#
+# Built-in
+#
+export ESY__ROOT_PACKAGE_CONFIG_PATH="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/package.json"
+export USER='dumortier'
+export PATH='/Users/dumortier/.nvm/versions/node/v16.13.1/lib/node_modules/esy/3/i/esy-7d7e29d3/bin:/Users/dumortier/.nvm/versions/node/v16.13.1/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin'
+export HOMEBREW_CELLAR='/opt/homebrew/Cellar'
+export LESS='-R'
+export OCAMLPATH='/Users/dumortier/.nvm/versions/node/v16.13.1/lib/node_modules/esy/3/i/esy-7d7e29d3/lib:'
+export NVM_INC='/Users/dumortier/.nvm/versions/node/v16.13.1/include/node'
+export LC_TERMINAL='iTerm2'
+export XPC_FLAGS='0x0'
+export CAML_LD_LIBRARY_PATH='/Users/dumortier/.nvm/versions/node/v16.13.1/lib/node_modules/esy/3/i/esy-7d7e29d3/stublibs:/Users/dumortier/.nvm/versions/node/v16.13.1/lib/node_modules/esy/3/i/esy-7d7e29d3/lib/stublibs:'
+export LOGNAME='dumortier'
+export SHLVL='1'
+export MAN_PATH='/Users/dumortier/.nvm/versions/node/v16.13.1/lib/node_modules/esy/3/i/esy-7d7e29d3/man:'
+export PAGER='less'
+export NVM_CD_FLAGS='-q'
+export NVM_BIN='/Users/dumortier/.nvm/versions/node/v16.13.1/bin'
+export OLDPWD='/Users/dumortier/Documents/Miage2/ocml'
+export _='/Users/dumortier/.nvm/versions/node/v16.13.1/lib/node_modules/esy/3/i/esy-7d7e29d3/bin/esy'
+export __CFBundleIdentifier='com.googlecode.iterm2'
+export INFOPATH='/opt/homebrew/share/info:'
+export LANG='fr_FR.UTF-8'
+export ITERM_PROFILE='Default'
+export HOMEBREW_PREFIX='/opt/homebrew'
+export COLORFGBG='7;0'
+export HOME='/Users/dumortier'
+export COMMAND_MODE='unix2003'
+export COLORTERM='truecolor'
+export LC_TERMINAL_VERSION='3.4.15'
+export __CF_USER_TEXT_ENCODING='0x0:0:1'
+export ZSH='/Users/dumortier/.oh-my-zsh'
+export TERM_PROGRAM_VERSION='3.4.15'
+export SHELL='/bin/zsh'
+export ITERM_SESSION_ID='w0t0p0:49B9864D-DF4D-4D5D-ADAC-F510CB95808A'
+export MANPATH='/Users/dumortier/.nvm/versions/node/v16.13.1/share/man:/opt/homebrew/share/man::'
+export LSCOLORS='Gxfxcxdxbxegedabagacad'
+export PWD='/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml'
+export SSH_AUTH_SOCK='/private/tmp/com.apple.launchd.uwv2ld7E7m/Listeners'
+export TERM_SESSION_ID='w0t0p0:49B9864D-DF4D-4D5D-ADAC-F510CB95808A'
+export TERM_PROGRAM='iTerm.app'
+export NVM_DIR='/Users/dumortier/.nvm'
+export TERM='xterm-256color'
+export TMPDIR='/var/folders/4_/xldvkb0d5kldmnqzrjz6ythr0000gn/T/'
+export XPC_SERVICE_NAME='0'
+export HOMEBREW_REPOSITORY='/opt/homebrew'
+export SHELL='/bin/zsh'
+export PATH="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/bin:$PATH"
+export cur__etc="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/etc"
+export cur__share="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/share"
+export cur__toplevel="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/toplevel"
+export cur__stublibs="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/stublibs"
+export cur__doc="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/doc"
+export cur__man="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/man"
+export cur__lib="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/lib"
+export cur__sbin="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/sbin"
+export cur__bin="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/bin"
+export cur__install="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c"
+export cur__target_dir="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/b/tennis-6d24f21c"
+export cur__original_root="/Users/dumortier/Documents/Miage2/ocml/tennis-kata"
+export cur__root="/Users/dumortier/Documents/Miage2/ocml/tennis-kata"
+export cur__dev="true"
+export cur__version="0.0.2"
+export cur__name="tennis"
+
+#
+# @opam/uucp@opam:14.0.0@8715110e
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uucp-opam__c__14.0.0-b7d306ba/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uucp-opam__c__14.0.0-b7d306ba/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uucp-opam__c__14.0.0-b7d306ba/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uucp-opam__c__14.0.0-b7d306ba/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uucp-opam__c__14.0.0-b7d306ba/bin:$PATH"
+
+#
+# @opam/base-bytes@opam:base@19d0c2ff
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_bytes-opam__c__base-96c96dfa/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_bytes-opam__c__base-96c96dfa/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_bytes-opam__c__base-96c96dfa/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_bytes-opam__c__base-96c96dfa/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_bytes-opam__c__base-96c96dfa/bin:$PATH"
+
+#
+# @opam/dune-configurator@opam:2.9.1@b7cf7a02
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_configurator-opam__c__2.9.1-e8b27462/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_configurator-opam__c__2.9.1-e8b27462/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_configurator-opam__c__2.9.1-e8b27462/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_configurator-opam__c__2.9.1-e8b27462/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_configurator-opam__c__2.9.1-e8b27462/bin:$PATH"
+
+#
+# @opam/easy-format@opam:1.3.2@1ea9f987
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-916b92d6/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-916b92d6/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-916b92d6/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-916b92d6/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__easy_format-opam__c__1.3.2-916b92d6/bin:$PATH"
+
+#
+# @opam/cppo@opam:1.6.8@7e48217d
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cppo-opam__c__1.6.8-7e84de69/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cppo-opam__c__1.6.8-7e84de69/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cppo-opam__c__1.6.8-7e84de69/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cppo-opam__c__1.6.8-7e84de69/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cppo-opam__c__1.6.8-7e84de69/bin:$PATH"
+
+#
+# @opam/biniou@opam:1.2.1@420bda02
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-0a9657d3/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-0a9657d3/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-0a9657d3/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-0a9657d3/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__biniou-opam__c__1.2.1-0a9657d3/bin:$PATH"
+
+#
+# @opam/sexplib0@opam:v0.14.0@155c136c
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__sexplib0-opam__c__v0.14.0-784e5450/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__sexplib0-opam__c__v0.14.0-784e5450/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__sexplib0-opam__c__v0.14.0-784e5450/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__sexplib0-opam__c__v0.14.0-784e5450/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__sexplib0-opam__c__v0.14.0-784e5450/bin:$PATH"
+
+#
+# @opam/uchar@opam:0.0.2@c8218eea
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uchar-opam__c__0.0.2-5ba171a1/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uchar-opam__c__0.0.2-5ba171a1/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uchar-opam__c__0.0.2-5ba171a1/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uchar-opam__c__0.0.2-5ba171a1/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uchar-opam__c__0.0.2-5ba171a1/bin:$PATH"
+
+#
+# @opam/seq@opam:base@d8d7de1d
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__seq-opam__c__base-6d40b7fa/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__seq-opam__c__base-6d40b7fa/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__seq-opam__c__base-6d40b7fa/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__seq-opam__c__base-6d40b7fa/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__seq-opam__c__base-6d40b7fa/bin:$PATH"
+
+#
+# @opam/topkg@opam:1.0.4@52d43104
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__topkg-opam__c__1.0.4-97289c73/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__topkg-opam__c__1.0.4-97289c73/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__topkg-opam__c__1.0.4-97289c73/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__topkg-opam__c__1.0.4-97289c73/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__topkg-opam__c__1.0.4-97289c73/bin:$PATH"
+
+#
+# @opam/ocamlfind@opam:1.9.1@b748edf6
+#
+export OCAML_TOPLEVEL_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.1-798cd7bf/toplevel"
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.1-798cd7bf/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.1-798cd7bf/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.1-798cd7bf/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.1-798cd7bf/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.1-798cd7bf/bin:$PATH"
+
+#
+# @opam/ocamlbuild@opam:0.14.0@0dee4078
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlbuild-opam__c__0.14.0-443a814d/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlbuild-opam__c__0.14.0-443a814d/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlbuild-opam__c__0.14.0-443a814d/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlbuild-opam__c__0.14.0-443a814d/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlbuild-opam__c__0.14.0-443a814d/bin:$PATH"
+
+#
+# @opam/uuseg@opam:14.0.0@7d21466b
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuseg-opam__c__14.0.0-d7f600e1/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuseg-opam__c__14.0.0-d7f600e1/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuseg-opam__c__14.0.0-d7f600e1/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuseg-opam__c__14.0.0-d7f600e1/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuseg-opam__c__14.0.0-d7f600e1/bin:$PATH"
+
+#
+# @opam/stdio@opam:v0.14.0@a5affb43
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-55745563/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-55745563/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-55745563/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-55745563/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdio-opam__c__v0.14.0-55745563/bin:$PATH"
+
+#
+# @opam/odoc-parser@opam:1.0.0@b1029bdf
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__odoc_parser-opam__c__1.0.0-2353c0aa/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__odoc_parser-opam__c__1.0.0-2353c0aa/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__odoc_parser-opam__c__1.0.0-2353c0aa/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__odoc_parser-opam__c__1.0.0-2353c0aa/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__odoc_parser-opam__c__1.0.0-2353c0aa/bin:$PATH"
+
+#
+# @opam/ocp-indent@opam:1.8.1@e32a3c50
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocp_indent-opam__c__1.8.1-40b6fbec/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocp_indent-opam__c__1.8.1-40b6fbec/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocp_indent-opam__c__1.8.1-40b6fbec/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocp_indent-opam__c__1.8.1-40b6fbec/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocp_indent-opam__c__1.8.1-40b6fbec/bin:$PATH"
+
+#
+# @opam/ocaml-version@opam:3.4.0@b6cd49e1
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_version-opam__c__3.4.0-bef7b59b/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_version-opam__c__3.4.0-bef7b59b/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_version-opam__c__3.4.0-bef7b59b/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_version-opam__c__3.4.0-bef7b59b/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_version-opam__c__3.4.0-bef7b59b/bin:$PATH"
+
+#
+# @opam/menhirSdk@opam:20211128@e9fd3a0e
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirsdk-opam__c__20211128-d714ac9e/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirsdk-opam__c__20211128-d714ac9e/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirsdk-opam__c__20211128-d714ac9e/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirsdk-opam__c__20211128-d714ac9e/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirsdk-opam__c__20211128-d714ac9e/bin:$PATH"
+
+#
+# @opam/menhirLib@opam:20211128@e86421ad
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirlib-opam__c__20211128-0c4aeaad/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirlib-opam__c__20211128-0c4aeaad/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirlib-opam__c__20211128-0c4aeaad/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirlib-opam__c__20211128-0c4aeaad/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhirlib-opam__c__20211128-0c4aeaad/bin:$PATH"
+
+#
+# @opam/menhir@opam:20211128@d5aaf21f
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhir-opam__c__20211128-20d5b0b9/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhir-opam__c__20211128-20d5b0b9/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhir-opam__c__20211128-20d5b0b9/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhir-opam__c__20211128-20d5b0b9/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__menhir-opam__c__20211128-20d5b0b9/bin:$PATH"
+
+#
+# @opam/fpath@opam:0.7.3@674d8125
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fpath-opam__c__0.7.3-4fe6f7a2/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fpath-opam__c__0.7.3-4fe6f7a2/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fpath-opam__c__0.7.3-4fe6f7a2/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fpath-opam__c__0.7.3-4fe6f7a2/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fpath-opam__c__0.7.3-4fe6f7a2/bin:$PATH"
+
+#
+# @opam/fix@opam:20211125@f2a50310
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fix-opam__c__20211125-b373e7f2/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fix-opam__c__20211125-b373e7f2/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fix-opam__c__20211125-b373e7f2/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fix-opam__c__20211125-b373e7f2/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fix-opam__c__20211125-b373e7f2/bin:$PATH"
+
+#
+# @opam/either@opam:1.0.0@be5a1416
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__either-opam__c__1.0.0-1728e0d9/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__either-opam__c__1.0.0-1728e0d9/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__either-opam__c__1.0.0-1728e0d9/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__either-opam__c__1.0.0-1728e0d9/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__either-opam__c__1.0.0-1728e0d9/bin:$PATH"
+
+#
+# @opam/base@opam:v0.14.2@04880a76
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base-opam__c__v0.14.2-12c5f7c4/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base-opam__c__v0.14.2-12c5f7c4/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base-opam__c__v0.14.2-12c5f7c4/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base-opam__c__v0.14.2-12c5f7c4/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base-opam__c__v0.14.2-12c5f7c4/bin:$PATH"
+
+#
+# @opam/yojson@opam:1.7.0@69d87312
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-73223f10/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-73223f10/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-73223f10/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-73223f10/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__yojson-opam__c__1.7.0-73223f10/bin:$PATH"
+
+#
+# @opam/spawn@opam:v0.15.0@4a27a4cb
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-0ececcdc/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-0ececcdc/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-0ececcdc/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-0ececcdc/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__spawn-opam__c__v0.15.0-0ececcdc/bin:$PATH"
+
+#
+# @opam/result@opam:1.5@1c6a6533
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__result-opam__c__1.5-eafcf2aa/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__result-opam__c__1.5-eafcf2aa/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__result-opam__c__1.5-eafcf2aa/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__result-opam__c__1.5-eafcf2aa/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__result-opam__c__1.5-eafcf2aa/bin:$PATH"
+
+#
+# @opam/ppx_yojson_conv_lib@opam:v0.14.0@605a6997
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-de151588/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-de151588/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-de151588/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-de151588/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ppx__yojson__conv__lib-opam__c__v0.14.0-de151588/bin:$PATH"
+
+#
+# @opam/pp@opam:1.1.2@89ad03b5
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__pp-opam__c__1.1.2-62f937a7/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__pp-opam__c__1.1.2-62f937a7/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__pp-opam__c__1.1.2-62f937a7/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__pp-opam__c__1.1.2-62f937a7/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__pp-opam__c__1.1.2-62f937a7/bin:$PATH"
+
+#
+# @opam/ocamlformat-rpc-lib@opam:0.19.0@125cf11d
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc_lib-opam__c__0.19.0-27b5fd5d/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc_lib-opam__c__0.19.0-27b5fd5d/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc_lib-opam__c__0.19.0-27b5fd5d/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc_lib-opam__c__0.19.0-27b5fd5d/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc_lib-opam__c__0.19.0-27b5fd5d/bin:$PATH"
+
+#
+# @opam/dune-build-info@opam:2.9.1@c636b56a
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_build_info-opam__c__2.9.1-5ca2b8d6/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_build_info-opam__c__2.9.1-5ca2b8d6/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_build_info-opam__c__2.9.1-5ca2b8d6/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_build_info-opam__c__2.9.1-5ca2b8d6/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune_build_info-opam__c__2.9.1-5ca2b8d6/bin:$PATH"
+
+#
+# @opam/csexp@opam:1.5.1@8a8fb3a7
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-09c7a135/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-09c7a135/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-09c7a135/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-09c7a135/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__csexp-opam__c__1.5.1-09c7a135/bin:$PATH"
+
+#
+# @opam/base-unix@opam:base@87d0b2eb
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_unix-opam__c__base-2a6b9323/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_unix-opam__c__base-2a6b9323/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_unix-opam__c__base-2a6b9323/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_unix-opam__c__base-2a6b9323/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_unix-opam__c__base-2a6b9323/bin:$PATH"
+
+#
+# @opam/base-threads@opam:base@36803084
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_threads-opam__c__base-78e4ca60/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_threads-opam__c__base-78e4ca60/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_threads-opam__c__base-78e4ca60/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_threads-opam__c__base-78e4ca60/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__base_threads-opam__c__base-78e4ca60/bin:$PATH"
+
+#
+# @opam/uutf@opam:1.0.2@4440868f
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uutf-opam__c__1.0.2-c30fae96/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uutf-opam__c__1.0.2-c30fae96/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uutf-opam__c__1.0.2-c30fae96/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uutf-opam__c__1.0.2-c30fae96/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uutf-opam__c__1.0.2-c30fae96/bin:$PATH"
+
+#
+# @opam/uuidm@opam:0.9.7@bf725775
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuidm-opam__c__0.9.7-d571d64f/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuidm-opam__c__0.9.7-d571d64f/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuidm-opam__c__0.9.7-d571d64f/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuidm-opam__c__0.9.7-d571d64f/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__uuidm-opam__c__0.9.7-d571d64f/bin:$PATH"
+
+#
+# @opam/stdlib-shims@opam:0.3.0@0d088929
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-0e79630c/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-0e79630c/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-0e79630c/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-0e79630c/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__stdlib_shims-opam__c__0.3.0-0e79630c/bin:$PATH"
+
+#
+# @opam/re@opam:1.10.3@0585c65d
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__re-opam__c__1.10.3-ca906f07/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__re-opam__c__1.10.3-ca906f07/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__re-opam__c__1.10.3-ca906f07/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__re-opam__c__1.10.3-ca906f07/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__re-opam__c__1.10.3-ca906f07/bin:$PATH"
+
+#
+# @opam/fmt@opam:0.9.0@87213963
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fmt-opam__c__0.9.0-6d1ec2f3/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fmt-opam__c__0.9.0-6d1ec2f3/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fmt-opam__c__0.9.0-6d1ec2f3/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fmt-opam__c__0.9.0-6d1ec2f3/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__fmt-opam__c__0.9.0-6d1ec2f3/bin:$PATH"
+
+#
+# @opam/cmdliner@opam:1.0.4@93208aac
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cmdliner-opam__c__1.0.4-c0d2dd86/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cmdliner-opam__c__1.0.4-c0d2dd86/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cmdliner-opam__c__1.0.4-c0d2dd86/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cmdliner-opam__c__1.0.4-c0d2dd86/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__cmdliner-opam__c__1.0.4-c0d2dd86/bin:$PATH"
+
+#
+# @opam/astring@opam:0.8.5@1300cee8
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__astring-opam__c__0.8.5-3772bfeb/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__astring-opam__c__0.8.5-3772bfeb/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__astring-opam__c__0.8.5-3772bfeb/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__astring-opam__c__0.8.5-3772bfeb/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__astring-opam__c__0.8.5-3772bfeb/bin:$PATH"
+
+#
+# @esy-ocaml/substs@0.0.1@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/esy_ocaml__s__substs-0.0.1-f9e9eafc/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/esy_ocaml__s__substs-0.0.1-f9e9eafc/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/esy_ocaml__s__substs-0.0.1-f9e9eafc/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/esy_ocaml__s__substs-0.0.1-f9e9eafc/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/esy_ocaml__s__substs-0.0.1-f9e9eafc/bin:$PATH"
+
+#
+# ocaml@4.12.0@d41d8cd9
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/ocaml-4.12.0-3a04ec8f/lib/ocaml/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/ocaml-4.12.0-3a04ec8f/lib/ocaml:$CAML_LD_LIBRARY_PATH"
+export OCAMLLIB="/Users/dumortier/.esy/3______________________________________________________________/i/ocaml-4.12.0-3a04ec8f/lib/ocaml"
+export OCAML_TOPLEVEL_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/ocaml-4.12.0-3a04ec8f/lib/ocaml"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/ocaml-4.12.0-3a04ec8f/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/ocaml-4.12.0-3a04ec8f/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/ocaml-4.12.0-3a04ec8f/bin:$PATH"
+
+#
+# @opam/ocamlformat-rpc@opam:0.20.1@89f659b0
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc-opam__c__0.20.1-9a7f1ab2/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc-opam__c__0.20.1-9a7f1ab2/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc-opam__c__0.20.1-9a7f1ab2/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc-opam__c__0.20.1-9a7f1ab2/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat_rpc-opam__c__0.20.1-9a7f1ab2/bin:$PATH"
+
+#
+# @opam/ocamlformat@opam:0.20.1@6e37e311
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat-opam__c__0.20.1-0eb95bc5/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat-opam__c__0.20.1-0eb95bc5/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat-opam__c__0.20.1-0eb95bc5/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat-opam__c__0.20.1-0eb95bc5/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlformat-opam__c__0.20.1-0eb95bc5/bin:$PATH"
+
+#
+# @opam/ocaml-lsp-server@opam:1.9.0@671f2077
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_lsp_server-opam__c__1.9.0-9159c57e/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_lsp_server-opam__c__1.9.0-9159c57e/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_lsp_server-opam__c__1.9.0-9159c57e/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_lsp_server-opam__c__1.9.0-9159c57e/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocaml_lsp_server-opam__c__1.9.0-9159c57e/bin:$PATH"
+
+#
+# @opam/dune@opam:2.9.1@1e504822
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune-opam__c__2.9.1-8e5b36c5/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune-opam__c__2.9.1-8e5b36c5/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune-opam__c__2.9.1-8e5b36c5/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune-opam__c__2.9.1-8e5b36c5/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune-opam__c__2.9.1-8e5b36c5/bin:$PATH"
+
+#
+# @opam/alcotest@opam:1.2.3@54e26031
+#
+export CAML_LD_LIBRARY_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__alcotest-opam__c__1.2.3-aac96ae5/stublibs:/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__alcotest-opam__c__1.2.3-aac96ae5/lib/stublibs:$CAML_LD_LIBRARY_PATH"
+export OCAMLPATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__alcotest-opam__c__1.2.3-aac96ae5/lib:$OCAMLPATH"
+export MAN_PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__alcotest-opam__c__1.2.3-aac96ae5/man:$MAN_PATH"
+export PATH="/Users/dumortier/.esy/3______________________________________________________________/i/opam__s__alcotest-opam__c__1.2.3-aac96ae5/bin:$PATH"
+
+#
+# Built-in
+#
+export OCAMLFIND_LDCONF="ignore"
+export OCAMLFIND_DESTDIR="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/i/tennis-6d24f21c/lib"
+export DUNE_BUILD_DIR="/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/b/tennis-6d24f21c"
+export DUNE_STORE_ORIG_SOURCE_DIR="true"
+export SHELL="env -i /bin/bash --norc --noprofile"
+export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export SHELL="/bin/zsh"

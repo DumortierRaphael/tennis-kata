@@ -1,0 +1,45 @@
+(lang dune 2.9)
+(name tennis)
+(library
+ (name tennis.lib)
+ (kind normal)
+ (orig_src_dir /Users/dumortier/Documents/Miage2/ocml/tennis-kata/lib)
+ (archives (byte lib/Tennis.cma) (native lib/Tennis.cmxa))
+ (plugins (byte lib/Tennis.cma) (native lib/Tennis.cmxs))
+ (native_archives lib/Tennis.a)
+ (main_module_name Tennis)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name Tennis)
+   (modules ((name Game) (obj_name tennis__Game) (visibility public) (impl)))
+   (alias_module
+    (name Tennis)
+    (obj_name tennis)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))
+(library
+ (name tennis.test)
+ (kind normal)
+ (orig_src_dir /Users/dumortier/Documents/Miage2/ocml/tennis-kata/test)
+ (archives (byte test/SUT.cma) (native test/SUT.cmxa))
+ (plugins (byte test/SUT.cma) (native test/SUT.cmxs))
+ (native_archives test/SUT.a)
+ (requires alcotest tennis.lib)
+ (main_module_name SUT)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name SUT)
+   (modules
+    ((name Framework) (obj_name sUT__Framework) (visibility public) (impl))
+    ((name Game_test) (obj_name sUT__Game_test) (visibility public) (impl)))
+   (alias_module
+    (name SUT)
+    (obj_name sUT)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))
