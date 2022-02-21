@@ -7,7 +7,6 @@ type point =
     | Love
     | Fifteen
     | Thirty
-    | Forty
 
 type points_data =
   { player_one : point
@@ -46,7 +45,7 @@ let string_of_point : point -> string =
   | Love -> "0"
   | Fifteen -> "15"
   | Thirty -> "30"
-  | Forty -> "40"
+
 
 let string_of_score : score -> string =
  fun score ->
@@ -64,8 +63,7 @@ let increment_point : point -> point option =
   match point with
   | Love -> Some Fifteen
   | Fifteen -> Some Thirty
-  | Thirty -> Some Forty
-  | _ -> None
+  | Thirty -> None
 
 
 (* An exemple how to extract values from 'a option value*)
@@ -96,7 +94,16 @@ let score_when_forty current_forty winner =
 let score_when_game winner = Game winner
 
 let score_when_point : 'a -> player -> score =
- fun current winner -> raise @@ Failure "not implemented"
+ fun current winner -> 
+  if string_of_player winner = "Player 1"
+  then 
+    match increment_point current.player_one with
+    |  None -> Forty { player = winner; other_point = current.player_two }
+    | Some p -> Points { player_one = p; player_two = current.player_two }
+  else
+    match increment_point current.player_two with
+     | None -> Forty { player = winner; other_point = current.player_one }
+     | Some p -> Points { player_one = current.player_one; player_two = p} 
 
 
 let score current winner =

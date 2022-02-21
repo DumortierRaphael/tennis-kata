@@ -1,11 +1,11 @@
 # /Users/dumortier/.esy/3______________________________________________________________/i/opam__s__dune-opam__c__2.9.1-8e5b36c5/bin/dune build -p tennis
 # OCAMLPARAM: unset
 # Workspace root: /Users/dumortier/Documents/Miage2/ocml/tennis-kata
-$ /usr/bin/getconf _NPROCESSORS_ONLN > /tmp/dune92f8cb.output 2> /dev/null
+$ /usr/bin/getconf _NPROCESSORS_ONLN > /tmp/dune7f67ca.output 2> /dev/null
 # Auto-detected concurrency: 8
 # disable binary cache
-$ /Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.1-798cd7bf/bin/ocamlfind printconf path > /tmp/dunea495b5.output
-$ /Users/dumortier/.esy/3______________________________________________________________/i/ocaml-4.12.0-3a04ec8f/bin/ocamlc.opt -config > /tmp/dune7d5e42.output
+$ /Users/dumortier/.esy/3______________________________________________________________/i/opam__s__ocamlfind-opam__c__1.9.1-798cd7bf/bin/ocamlfind printconf path > /tmp/dune884196.output
+$ /Users/dumortier/.esy/3______________________________________________________________/i/ocaml-4.12.0-3a04ec8f/bin/ocamlc.opt -config > /tmp/dune237d97.output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"
@@ -49,13 +49,13 @@ $ /Users/dumortier/.esy/3_______________________________________________________
 #        ; "DUNE_SOURCEROOT" :
 #            "/Users/dumortier/Documents/Miage2/ocml/tennis-kata"
 #        ; "INSIDE_DUNE" :
-#            "/Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/b/tennis-6d24f21c/default"
+#            "/Users/dumortier/Documents/Miage2/ocml/tennis-kata/_esy/default/store/b/tennis-6d24f21c/default"
 #        ; "MANPATH" :
-#            "/Users/dumortier/Documents/Miage2/ocml/tennis-kata//Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/b/tennis-6d24f21c/install/default/bin"
+#            "/Users/dumortier/Documents/Miage2/ocml/tennis-kata//Users/dumortier/Documents/Miage2/ocml/tennis-kata/_esy/default/store/b/tennis-6d24f21c/install/default/bin"
 #        ; "OCAMLFIND_IGNORE_DUPS_IN" :
-#            "/Users/dumortier/Documents/Miage2/ocml/tennis-kata//Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/b/tennis-6d24f21c/install/default/lib"
+#            "/Users/dumortier/Documents/Miage2/ocml/tennis-kata//Users/dumortier/Documents/Miage2/ocml/tennis-kata/_esy/default/store/b/tennis-6d24f21c/install/default/lib"
 #        ; "OCAMLTOP_INCLUDE_PATH" :
-#            "/Users/dumortier/Documents/Miage2/ocml/tennis-kata//Users/dumortier/Documents/Miage2/ocml/Tennis-ocml/_esy/default/store/b/tennis-6d24f21c/install/default/lib/toplevel"
+#            "/Users/dumortier/Documents/Miage2/ocml/tennis-kata//Users/dumortier/Documents/Miage2/ocml/tennis-kata/_esy/default/store/b/tennis-6d24f21c/install/default/lib/toplevel"
 #        ; "OCAML_COLOR" : "always"
 #        ; "OPAMCOLOR" : "always"
 #        }
